@@ -8,6 +8,7 @@
 - [ ] **Sorting**
 - [ ] **Missing / repeated number**
 - [ ] **Simulation array**
+- [ ] **Sliding Window**
 
 # Topic 2 - Two Pointer
 
