@@ -28,4 +28,30 @@ https://leetcode.com/problems/first-missing-positive/
         }
         return n + 1;
     }
+
+    // solution 2
+        /*
+    -Time O(n)
+    -Space O(n)
+    */
+    public int firstMissingPositive2(int[] nums) {
+        if (nums.length == 0) {
+            return 1;
+        }
+        int n = nums.length;
+        int[] tmp = new int[n+1];
+        for(int i = 0; i < n; i++) {
+            // dont care above lowerbound number (negative) and upperbound number (numbers which greater than length of array)
+            if (nums[i] <= 0 || nums[i] > n) {
+                continue;
+            } 
+            tmp[nums[i]] = 1;
+        }
+        for (int i=1; i < n+1; i++) {
+            if (tmp[i] != 1) {
+                return i;
+            }
+        }
+        return n+1;
+    }
 ```
