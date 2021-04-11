@@ -8,3 +8,7 @@
 - [ ] **Sorting**
 - [ ] **Missing / repeated number**
 - [ ] **Simulation array**
+
+# Topic 2 - Two Pointer
+
+# Topic 3 - Binary Search
