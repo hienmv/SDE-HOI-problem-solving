@@ -5,6 +5,8 @@ https://leetcode.com/problems/height-checker/
 
 ```java
 // Use counting sort
+// Time: O(n)
+// Space: O(n)
     public int heightChecker(int[] heights) {
         int[] counts = new int[101];
         for (int h : heights) {
