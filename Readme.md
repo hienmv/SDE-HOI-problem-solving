@@ -1,4 +1,5 @@
 # Overivew 
+- [Intro](https://github.com/hienmv/SDE-HOI-problem-solving/blob/master/Intro.md)
 - Sprint info [here](https://github.com/hienmv/SDE-HOI-problem-solving/blob/master/Sprint.md).
 
 # Topic 1 - Array
