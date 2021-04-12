@@ -1,3 +1,6 @@
+# Overivew 
+- Sprint info [here](https://github.com/hienmv/SDE-HOI-problem-solving/blob/master/Sprint.md).
+
 # Topic 1 - Array
 ## Problem categories
 - [ ] **Array math**
