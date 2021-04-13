@@ -3,13 +3,13 @@
 ### Topic: Array
 
 - Math
-  - https://github.com/hienmv/SDE-HOI-problem-solving/blob/master/Array/Array-Math/Maximum-Absolute-Difference.md
+  - [Maximum Absolute Difference](https://github.com/hienmv/SDE-HOI-problem-solving/blob/master/Array/Array-Math/Maximum-Absolute-Difference.md)
 
 - Missing-repeated-number
-  - https://github.com/hienmv/SDE-HOI-problem-solving/blob/master/Array/Missing-number/first-missing-positive.md
+  - [First Missing Positive](https://github.com/hienmv/SDE-HOI-problem-solving/blob/master/Array/Missing-number/first-missing-positive.md)
 
 - Sorting:
-  - https://github.com/hienmv/SDE-HOI-problem-solving/blob/master/Array/Sorting/height-checker.md
+  - [Height Checker](https://github.com/hienmv/SDE-HOI-problem-solving/blob/master/Array/Sorting/height-checker.md)
 
 - Bucket
-  - https://github.com/hienmv/SDE-HOI-problem-solving/blob/master/Array/Bucketting/Sum-Equals-K.md
+  - [Sum Equals K](https://github.com/hienmv/SDE-HOI-problem-solving/blob/master/Array/Bucketting/Sum-Equals-K.md)
